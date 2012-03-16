@@ -40,7 +40,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		093B74A3151348220094E0CC /* PBXContainerItemProxy */ = {
+		093B74B2151354F30094E0CC /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 29B97313FDCFA39411CA2CEA /* Project object */;
 			proxyType = 1;
@@ -356,7 +356,6 @@
 			buildRules = (
 			);
 			dependencies = (
-				093B74A4151348220094E0CC /* PBXTargetDependency */,
 				17B57AD013D9046E0096B889 /* PBXTargetDependency */,
 			);
 			name = iOS_Calc_ApplicationTests;
@@ -375,6 +374,7 @@
 			buildRules = (
 			);
 			dependencies = (
+				093B74B3151354F30094E0CC /* PBXTargetDependency */,
 			);
 			name = iOS_Calc;
 			productName = Calc;
@@ -512,10 +512,10 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		093B74A4151348220094E0CC /* PBXTargetDependency */ = {
+		093B74B3151354F30094E0CC /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = 1719A23813D6763E004919FD /* Calculator-iOS */;
-			targetProxy = 093B74A3151348220094E0CC /* PBXContainerItemProxy */;
+			targetProxy = 093B74B2151354F30094E0CC /* PBXContainerItemProxy */;
 		};
 		1719A24C13D6763F004919FD /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
