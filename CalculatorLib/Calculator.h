@@ -1,6 +1,8 @@
-/*
+﻿/*
      File: Calculator.h
  Abstract: This file declares the interface for the Calculator class.
+
+
   Version: 2.0
  
  Disclaimer: IMPORTANT:  This Apple software is supplied to you by Apple
