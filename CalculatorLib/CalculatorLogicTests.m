@@ -163,9 +163,9 @@
    [calculator input:@"C"];
    [calculator input:@"4"];
    [calculator input:@"="];   
-   STAssertTrue([[calculator displayValue] isEqualToString:@"114"], @"");
+   STAssertTrue([[calculator displayValue] isEqualToString:@"11"], @"");
    NSLog(@"%@ end", self.name);
-}
+//}
 
 /* testClearComputation ensures that the clear (C) key clears the computation when used twice.
  */
