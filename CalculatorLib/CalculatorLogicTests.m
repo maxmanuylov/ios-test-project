@@ -165,7 +165,7 @@
    [calculator input:@"="];   
    STAssertTrue([[calculator displayValue] isEqualToString:@"11"], @"");
    NSLog(@"%@ end", self.name);
-//}
+}
 
 /* testClearComputation ensures that the clear (C) key clears the computation when used twice.
  */
