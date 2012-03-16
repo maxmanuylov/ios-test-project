@@ -163,7 +163,7 @@
    [calculator input:@"C"];
    [calculator input:@"4"];
    [calculator input:@"="];   
-   STAssertTrue([[calculator displayValue] isEqualToString:@"11"], @"");
+   STAssertTrue([[calculator displayValue] isEqualToString:@"114"], @"");
    NSLog(@"%@ end", self.name);
 }
 
