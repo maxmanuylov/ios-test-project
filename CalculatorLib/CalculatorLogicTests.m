@@ -53,7 +53,7 @@
 @interface CalculatorLogicTests : SenTestCase {
 @private
    Calculator *calculator;
-
+}
 
 @end
 
