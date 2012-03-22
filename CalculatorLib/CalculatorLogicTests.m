@@ -102,7 +102,7 @@
    [calculator input:@"-"];
    [calculator input:@"2"];
    [calculator input:@"="];
-   STAssertTrue([[calculator displayValue] isEqualToString:@"17"], @"");
+   STAssertTrue([[calculator displayValue] isEqualToString:@"16"], @"");
    NSLog(@"%@ end", self.name);
 }
 
