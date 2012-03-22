@@ -95,14 +95,14 @@
  * 1. Through the input: method, feed the calculator the characters 1, 9, -, 2, and =.
  * 2. Confirm that displayValue is 17.
  */
-- (void) testSubtraction {
+- (void) testSubtraction {}
    NSLog(@"%@ start", self.name);   // Use NSLog to generate additional build-results output.
    [calculator input:@"1"];
    [calculator input:@"9"];
    [calculator input:@"-"];
    [calculator input:@"2"];
    [calculator input:@"="];
-   STAssertTrue([[calculator displayValue] isEqualToString:@"16"], @"");
+   STAssertTrue([[calculator displayValue] isEqualToString:@"17"], @"");
    NSLog(@"%@ end", self.name);
 }
 
