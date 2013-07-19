@@ -1,6 +1,0 @@
-<component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="iOS_Calc_ApplicationTests" type="OCUnitRunConfiguration" factoryName="OCUnit" SCHEME_NAME="iOS_Calc_ApplicationTests" PROJECT_NAME="iPhoneUnitTests" TARGET_NAME="iOS_Calc_ApplicationTests" CONFIG_NAME="Debug" DESTINATION_ID="iphonesimulator_4.3_1" DEBUGGER="GDB" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
-    <envs />
-    <method />
-  </configuration>
-</component>
